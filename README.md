@@ -9,6 +9,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
+![alt test](https://github.com/Sam-Parizi/DDCFD-v1/blob/master/Figure.png)
+
+
 What things you need to install the software and how to install them
 
 ```
