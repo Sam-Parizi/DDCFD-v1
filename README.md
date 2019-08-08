@@ -10,7 +10,7 @@ A custom-designed re-implementation of [the work](https://arxiv.org/abs/1711.079
 ![alt test](https://github.com/Sam-Parizi/DDCFD-v1/blob/master/Figure.png)
 
 
-What things you need to install the software and how to install them
+The training part:
 
 ```
 import pickle as pkl
